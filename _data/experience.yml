@@ -1,5 +1,8 @@
 # Jobs
-
+- job: 
+-[] student
+-[] undergrated student
+-[] teacher
 
 # Job Title
 - company: Conway Meats
