@@ -3,6 +3,7 @@
 -[] student
 -[] undergrated student
 -[] teacher
+-[] doctor
 
 # Job Title
 - company: Conway Meats
@@ -10,4 +11,4 @@
   duration: May, 2014 &mdash; May, 2015
   summary: Web developer for a restuarant meat provider.
 
-
+## Finish
